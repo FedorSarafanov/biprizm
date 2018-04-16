@@ -1,3 +1,0 @@
-asort(delta_r);
-plot(h_r,delta_d_r);
-plot(h_r,delta_r);
