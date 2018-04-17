@@ -69,7 +69,7 @@ grid on
 plot(h_g,delta_d_g,'r*')
 plot(fittedmodel_dd_g)
 legend('experiment','cftool')
-xlabel('h,μμ');
+xlabel('$h,mm$');
 ylabel('$d\cdot\delta ,mm^2$')
 hold off
 saveas(hh2,'dd_r.png')

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.2.7)  17 APR 2018 21:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.2.7)  17 APR 2018 21:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1341,12 +1341,17 @@ Package pdftex.def Info: data/d_g.png  used on input line 152.
 File: data/dd_g.png Graphic file (type png)
 <use data/dd_g.png>
 Package pdftex.def Info: data/dd_g.png  used on input line 160.
-(pdftex.def)             Requested size: 217.66211pt x 163.18547pt.
+(pdftex.def)             Requested size: 266.03474pt x 199.45212pt.
 <data/dd_r.png, id=95, 421.575pt x 316.0608pt>
 File: data/dd_r.png Graphic file (type png)
 <use data/dd_r.png>
 Package pdftex.def Info: data/dd_r.png  used on input line 167.
-(pdftex.def)             Requested size: 217.66211pt x 163.18547pt.
+(pdftex.def)             Requested size: 266.03474pt x 199.45212pt.
+
+Overfull \hbox (56.43904pt too wide) in paragraph at lines 158--171
+[][]   [] 
+ []
+
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 172.
@@ -1360,7 +1365,7 @@ Package pdftex.def Info: data/d_r.png  used on input line 174.
 r.png (PNG copy)> <./data/d_r.png (PNG copy)>] (./biprizm.aux) ) 
 Here is how much of TeX's memory you used:
  45746 strings out of 492985
- 1106843 string characters out of 6136285
+ 1106837 string characters out of 6136285
  1336600 words of memory out of 5000000
  48506 multiletter control sequences out of 15000+600000
  544220 words of font info for 57 fonts, out of 8000000 for 9000
@@ -1384,7 +1389,7 @@ nts/cm/cmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx12
 017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb><c:/texlive/2017/texmf-
 dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2017/texmf-dist/fonts
 /type1/public/cm-super/sfrm1728.pfb>
-Output written on biprizm.pdf (9 pages, 347091 bytes).
+Output written on biprizm.pdf (9 pages, 346702 bytes).
 PDF statistics:
  160 PDF objects out of 1000 (max. 8388607)
  102 compressed objects within 2 object streams
