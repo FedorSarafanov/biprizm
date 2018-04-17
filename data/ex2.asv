@@ -32,10 +32,10 @@ b3=strcat('$\varepsilon=$','',num2str(epsilon));
 text(500,7.5,b0);
 text(500,7.1,b3);
 
-saveas(hh,'d_r.png')
+ saveas(hh,'d_r.pdf')
 
 %Дельта для зелёного светофильтра
-hh1=figure;
+figure
 hold on
 grid on
 plot(h_g,delta_g,'r*')
@@ -60,26 +60,25 @@ b0=strcat(b1,'',b);
 b3=strcat('$\varepsilon=$','',num2str(epsilon));
 text(500,7.5,b0);
 text(500,7.1,b3);
-saveas(hh1,'d_g.png')
+saveas(hh,'d_r.pdf')
 
 %Произведение дельта на d. Красный фильтр
-hh2=figure;
+figure
 hold on
 grid on
 plot(h_g,delta_d_g,'r*')
 plot(fittedmodel_dd_g)
-legend('experiment','cftool')
+legend('Эксперимент','cftool')
 xlabel('h,мм');
-ylabel('$d\cdot\delta ,mm^2$')
+ylabel('d\cdot\delta ,мм^2')
 hold off
-saveas(hh2,'dd_r.png')
 %Произведение дельта на d. Зелёный фильтр
-hh3=figure;
+figure
 hold on
 grid on
 plot(h_r,delta_d_r,'r*')
 plot(fittedmodel_dd_r)
-legend('experiment','cftool')
-xlabel('$h,mm$');
-ylabel('$d\cdot\delta ,mm^2$')
-saveas(hh3,'dd_g.png')
+legend('Эксперимент','cftool')
+xlabel('h,мм');
+ylabel('d\cdot\delta ,мм^2')
+saveas(hh,'d_r.pdf')

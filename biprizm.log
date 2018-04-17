@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.2.7)  16 APR 2018 19:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.2.7)  17 APR 2018 21:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1332,56 +1332,62 @@ Package pdftex.def Info: ris/ris4.pdf  used on input line 77.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 150.
 
-Package epstopdf Info: Source file: <data/figs/d_r.eps>
-(epstopdf)                    date: 2018-04-16 19:00:03
-(epstopdf)                    size: 38530 bytes
-(epstopdf)             Output file: <data/figs/d_r-eps-converted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=data/figs/d_r-eps-converte
-d-to.pdf data/figs/d_r.eps>
-(epstopdf)             \includegraphics on input line 153.
-runsystem(repstopdf --outfile=data/figs/d_r-eps-converted-to.pdf data/figs/d_r.
-eps)...executed safely (allowed).
+<data/d_g.png, id=93, 421.575pt x 316.0608pt>
+File: data/d_g.png Graphic file (type png)
+<use data/d_g.png>
+Package pdftex.def Info: data/d_g.png  used on input line 152.
+(pdftex.def)             Requested size: 483.69687pt x 362.64241pt.
+<data/dd_g.png, id=94, 421.575pt x 316.0608pt>
+File: data/dd_g.png Graphic file (type png)
+<use data/dd_g.png>
+Package pdftex.def Info: data/dd_g.png  used on input line 160.
+(pdftex.def)             Requested size: 217.66211pt x 163.18547pt.
+<data/dd_r.png, id=95, 421.575pt x 316.0608pt>
+File: data/dd_r.png Graphic file (type png)
+<use data/dd_r.png>
+Package pdftex.def Info: data/dd_r.png  used on input line 167.
+(pdftex.def)             Requested size: 217.66211pt x 163.18547pt.
 
-Package epstopdf Info: Result file: <data/figs/d_r-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-16 19:00:40
-(epstopdf)                    size: 24515 bytes.
-<data/figs/d_r-eps-converted-to.pdf, id=93, 421.575pt x 316.18124pt>
-File: data/figs/d_r-eps-converted-to.pdf Graphic file (type pdf)
-<use data/figs/d_r-eps-converted-to.pdf>
-Package pdftex.def Info: data/figs/d_r-eps-converted-to.pdf  used on input line
- 153.
-(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
-[6] [7 <./data/figs/d_r-eps-converted-to.pdf>] [8] (./biprizm.aux) ) 
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 172.
+
+<data/d_r.png, id=96, 421.575pt x 316.0608pt>
+File: data/d_r.png Graphic file (type png)
+<use data/d_r.png>
+Package pdftex.def Info: data/d_r.png  used on input line 174.
+(pdftex.def)             Requested size: 0.0pt x 0.0pt.
+[6] [7 <./data/d_g.png (PNG copy)>] [8 <./data/dd_g.png (PNG copy)> <./data/dd_
+r.png (PNG copy)> <./data/d_r.png (PNG copy)>] (./biprizm.aux) ) 
 Here is how much of TeX's memory you used:
- 45741 strings out of 492985
- 1106757 string characters out of 6136285
- 1336576 words of memory out of 5000000
- 48491 multiletter control sequences out of 15000+600000
+ 45746 strings out of 492985
+ 1106843 string characters out of 6136285
+ 1336600 words of memory out of 5000000
+ 48506 multiletter control sequences out of 15000+600000
  544220 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,12n,128p,10344b,703s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive
-/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2017/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2017/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2017/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmex10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.p
-fb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/tex
-live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2017/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2017/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sf
-bx1200.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb
-><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texli
-ve/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb><c:/texlive/2017/te
-xmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2017/texmf-dist/f
-onts/type1/public/cm-super/sfrm1728.pfb>
-Output written on biprizm.pdf (9 pages, 250646 bytes).
+{c:/texlive/201
+7/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2017/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2017/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2017/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2017/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy8.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx12
+00.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:
+/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2
+017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb><c:/texlive/2017/texmf-
+dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2017/texmf-dist/fonts
+/type1/public/cm-super/sfrm1728.pfb>
+Output written on biprizm.pdf (9 pages, 347091 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
+ 160 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 144 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 159 words of extra memory for PDF output out of 10000 (max. 10000000)
 
