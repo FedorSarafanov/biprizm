@@ -1,6 +1,7 @@
-set(groot, 'defaultAxesTickLabelInterpreter','latex'); 
-set(groot, 'defaultLegendInterpreter','latex');
+close all
 set(0,'defaultTextInterpreter','latex');
+set(0,'DefaultAxesFontSize',12);
+set(0,'DefaultTextFontSize',12);
 grid on
 hold on
 %ƒельта дл€ красного светофильтра
@@ -8,10 +9,10 @@ plot(h_r,delta_r,'r*')
 plot(fittedmodel_d_r)
 h=200:10:1800;
 d_r=4*0.00121*h;
-plot(h,d_r)
+% plot(h,d_r)
 legend('experiment','cftool','theory')
 xlabel('h,mm');
-ylabel('$\delta$, mm')
+ylabel('$\delta, mm$')
 hold off
 a_r=0.005524; %угол наклона
 epsilon=atan(a_r);
@@ -77,4 +78,4 @@ text(500,7.1,b3);
 % legend('Ёксперимент','cftool')
 % xlabel('h,мм');
 % ylabel('d\cdot\delta ,мм^2')
-
+% 
