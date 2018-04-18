@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.2.7)  18 APR 2018 17:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.2.7)  18 APR 2018 18:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1201,6 +1201,9 @@ LaTeX Warning: Label `tab:chem1' multiply defined.
 LaTeX Warning: Label `tab:chem1' multiply defined.
 
 
+LaTeX Warning: Label `fig:dd_g' multiply defined.
+
+
 LaTeX Warning: Label `tab:chem1' multiply defined.
 
 )
@@ -1378,9 +1381,21 @@ Package pdftex.def Info: data/dd_g.png  used on input line 210.
  [10 <./data/dd_r.png (PNG copy)> <./data/dd_g.png (PNG copy)>]
 (./tables/tab3-1.tex
 PGFPlots: reading {data/tab3-1.tsv}
-) [11] (./tables/tab4-2.tex
+)
+<data/N_r.png, id=115, 421.575pt x 316.0608pt>
+File: data/N_r.png Graphic file (type png)
+<use data/N_r.png>
+Package pdftex.def Info: data/N_r.png  used on input line 257.
+(pdftex.def)             Requested size: 386.95897pt x 290.11394pt.
+<data/N_g.png, id=116, 421.575pt x 316.0608pt>
+File: data/N_g.png Graphic file (type png)
+<use data/N_g.png>
+Package pdftex.def Info: data/N_g.png  used on input line 263.
+(pdftex.def)             Requested size: 386.95897pt x 290.11394pt.
+ [11] [12 <./data/N_r.png (PNG copy)> <./data/N_g.png (PNG copy)>] (./tables/ta
+b4-2.tex
 PGFPlots: reading {data/tab4-2.tsv}
-) [12] (./biprizm.aux)
+) [13] (./biprizm.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1389,10 +1404,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 46050 strings out of 492985
- 1115879 string characters out of 6136285
- 1354119 words of memory out of 5000000
- 48776 multiletter control sequences out of 15000+600000
+ 46061 strings out of 492985
+ 1116036 string characters out of 6136285
+ 1354128 words of memory out of 5000000
+ 48785 multiletter control sequences out of 15000+600000
  546308 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,13n,128p,10344b,703s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1416,10 +1431,10 @@ e/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb><c:/texlive/2017/tex
 mf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2017/texmf-dist/fo
 nts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2017/texmf-dist/fonts/type1/
 public/cm-super/sfrm1728.pfb>
-Output written on biprizm.pdf (13 pages, 376979 bytes).
+Output written on biprizm.pdf (14 pages, 429188 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
+ 190 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 159 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 169 words of extra memory for PDF output out of 10000 (max. 10000000)
 

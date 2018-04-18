@@ -523,6 +523,12 @@ INPUT ./data/dd_g.png
 INPUT tables/tab3-1.tex
 INPUT tables/tab3-1.tex
 INPUT data/tab3-1.tsv
+INPUT data/N_r.png
+INPUT ./data/N_r.png
+INPUT ./data/N_r.png
+INPUT data/N_g.png
+INPUT ./data/N_g.png
+INPUT ./data/N_g.png
 INPUT tables/tab4-2.tex
 INPUT tables/tab4-2.tex
 INPUT data/tab4-2.tsv
